@@ -5,7 +5,7 @@
 
 
 
-# features 
+## features 
 
 * 1- Mvvm 
 * 2- Clean Architecture
@@ -17,3 +17,8 @@
 * 8- Retrofit 
 * 9- read data from csv file 
 * 10-Kotlin Flows and Coroutines
+
+
+## Demo 
+
+https://raw.githubusercontent.com/mosayeb-a/Sotck-Market-App/master/preview.mp4
