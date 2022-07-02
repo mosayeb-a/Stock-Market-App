@@ -17,6 +17,8 @@
 * 8- Retrofit 
 * 9- read data from csv file 
 * 10-Kotlin Flows and Coroutines
+* 11-Custom View
+
 
 
 ## Demo 
